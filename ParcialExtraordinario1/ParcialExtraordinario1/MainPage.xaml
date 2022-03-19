@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ParcialExtraordinario1.MainPage">
+
+    <StackLayout>
+        <Label x:Name="texto"
+              Text="ingrese la cantidad de dinero que desee"
+              FontSize="16"
+               VerticalOptions="Center"
+               HorizontalOptions="Center"
+              TextColor="Red"/>
+
+        <Entry x:Name="ingresar"
+              WidthRequest="100"
+               VerticalOptions="Center"
+               HorizontalOptions="Center"
+              Placeholder="dinero"
+             Keyboard="Numeric"/>
+
+        <Button x:Name="proceso"
+                CornerRadius="21"
+                BackgroundColor="Red"
+                Text="ejecutar"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                
+                Clicked="proceso_Clicked"/>
+        
+        <Label x:Name="resultados"
+               
+               FontSize="Medium"/>
+
+    </StackLayout>
+
+</ContentPage>

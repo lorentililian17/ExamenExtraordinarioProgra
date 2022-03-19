@@ -1,0 +1,15 @@
+C:\Users\loren\source\repos\ParcialExtraordinario1\ParcialExtraordinario1\ParcialExtraordinario1\obj\Debug\netstandard2.0\ParcialExtraordinario1.csproj.AssemblyReference.cache
+C:\Users\loren\source\repos\ParcialExtraordinario1\ParcialExtraordinario1\ParcialExtraordinario1\obj\Debug\netstandard2.0\ParcialExtraordinario1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\source\repos\ParcialExtraordinario1\ParcialExtraordinario1\ParcialExtraordinario1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\loren\source\repos\ParcialExtraordinario1\ParcialExtraordinario1\ParcialExtraordinario1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\loren\source\repos\ParcialExtraordinario1\ParcialExtraordinario1\ParcialExtraordinario1\obj\Debug\netstandard2.0\ParcialExtraordinario1.AssemblyInfoInputs.cache
+C:\Users\loren\source\repos\ParcialExtraordinario1\ParcialExtraordinario1\ParcialExtraordinario1\obj\Debug\netstandard2.0\ParcialExtraordinario1.AssemblyInfo.cs
+C:\Users\loren\source\repos\ParcialExtraordinario1\ParcialExtraordinario1\ParcialExtraordinario1\obj\Debug\netstandard2.0\ParcialExtraordinario1.csproj.CoreCompileInputs.cache
+C:\Users\loren\source\repos\ParcialExtraordinario1\ParcialExtraordinario1\ParcialExtraordinario1\obj\Debug\netstandard2.0\ParcialExtraordinario1.dll
+C:\Users\loren\source\repos\ParcialExtraordinario1\ParcialExtraordinario1\ParcialExtraordinario1\obj\Debug\netstandard2.0\ref\ParcialExtraordinario1.dll
+C:\Users\loren\source\repos\ParcialExtraordinario1\ParcialExtraordinario1\ParcialExtraordinario1\obj\Debug\netstandard2.0\ParcialExtraordinario1.pdb
+C:\Users\loren\source\repos\ParcialExtraordinario1\ParcialExtraordinario1\ParcialExtraordinario1\bin\Debug\netstandard2.0\ParcialExtraordinario1.deps.json
+C:\Users\loren\source\repos\ParcialExtraordinario1\ParcialExtraordinario1\ParcialExtraordinario1\bin\Debug\netstandard2.0\ParcialExtraordinario1.dll
+C:\Users\loren\source\repos\ParcialExtraordinario1\ParcialExtraordinario1\ParcialExtraordinario1\bin\Debug\netstandard2.0\ref\ParcialExtraordinario1.dll
+C:\Users\loren\source\repos\ParcialExtraordinario1\ParcialExtraordinario1\ParcialExtraordinario1\bin\Debug\netstandard2.0\ParcialExtraordinario1.pdb
+C:\Users\loren\source\repos\ParcialExtraordinario1\ParcialExtraordinario1\ParcialExtraordinario1\obj\Debug\netstandard2.0\XamlC.stamp
